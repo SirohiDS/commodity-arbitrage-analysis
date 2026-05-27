@@ -90,7 +90,7 @@ Analysis Modules:
 Tools: pandas, numpy, scipy, statsmodels, sklearn, arch, matplotlib
 Data: Yahoo Finance, FRED Economic Data
 
-Reference: https://github.com/SirohiDS/supply-chain-shock-predictor
+GitHub: https://github.com/SirohiDS/commodity-arbitrage-analysis
 Generated: $TIMESTAMP" 2>/dev/null || \
 git commit --allow-empty -m "Commodity Arbitrage Analysis — $TIMESTAMP"
 

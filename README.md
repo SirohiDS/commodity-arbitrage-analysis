@@ -2,11 +2,11 @@
 
 > **Portfolio-grade quantitative research project** — by Arjun Sirohi | [SirohiDS](https://github.com/SirohiDS)
 > 
-> Reference: [supply-chain-shock-predictor](https://github.com/SirohiDS/supply-chain-shock-predictor)
+> 🔗 [**View Project on GitHub →**](https://github.com/SirohiDS/commodity-arbitrage-analysis)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub](https://img.shields.io/badge/GitHub-SirohiDS-black?logo=github)](https://github.com/SirohiDS)
+[![GitHub](https://img.shields.io/badge/GitHub-commodity--arbitrage--analysis-black?logo=github)](https://github.com/SirohiDS/commodity-arbitrage-analysis)
 
 ---
 
