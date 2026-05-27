@@ -1,12 +1,12 @@
-# 📊 Commodity Arbitrage & Cross-Asset Correlation Analysis
+# 📊 [Commodity Arbitrage & Cross-Asset Correlation Analysis](https://github.com/SirohiDS/commodity-arbitrage-analysis)
 
-> **Portfolio-grade quantitative research project** — by Arjun Sirohi | [SirohiDS](https://github.com/SirohiDS)
-> 
-> 🔗 [**View Project on GitHub →**](https://github.com/SirohiDS/commodity-arbitrage-analysis)
+**Portfolio-grade quantitative research project** — by [Arjun Sirohi](https://github.com/SirohiDS)
+
+[![View on GitHub](https://img.shields.io/badge/🔗%20View%20on%20GitHub-commodity--arbitrage--analysis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirohiDS/commodity-arbitrage-analysis)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub](https://img.shields.io/badge/GitHub-commodity--arbitrage--analysis-black?logo=github)](https://github.com/SirohiDS/commodity-arbitrage-analysis)
+[![GitHub](https://img.shields.io/badge/GitHub-SirohiDS-black?logo=github)](https://github.com/SirohiDS)
 
 ---
 
